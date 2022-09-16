@@ -5,9 +5,9 @@ O primeiro programa retorna graficamente a largura e a altura dos números digit
 Digite a largura: 10
 Digite a altura: 3
 
-########## \n
-########## \n
-########## \n
+##########
+##########
+##########
 
 O segundo programa é basicamente a mesma coisa que o primeiro, oque muda é que no meio dos desenhos ficará vazio, exemplo: 
 
